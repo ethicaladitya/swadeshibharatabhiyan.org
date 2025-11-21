@@ -120,7 +120,7 @@ const Index = () => {
 
       // Share text
       const shareText = "🇮🇳 हम भारतवासी संकल्प लें और संकल्प करवाएँ — स्वदेशी अपनाएँ, सभी को प्रेरित करें और आत्मनिर्भर भारत बनाएं!";
-      const websiteUrl = "https://www.swadeshibharatabhiyan.com/";
+      const websiteUrl = "https://www.swadeshibharatabhiyan.org/";
 
       // Try Web Share API first - this is what apps like Paytm use for direct sharing
       if (navigator.share) {
